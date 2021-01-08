@@ -1,1 +1,5 @@
-# xnxxjson{ "name":"xnxx","link":https://www.xnxx.es"}
+[
+{
+"name":"xnxx","link":https://www.xnxx.es"
+}
+]
